@@ -21,4 +21,8 @@ public class Scenes : MonoBehaviour
     {
         SceneManager.LoadScene ("Scene2");
     }
+    public void Scene3to2()
+    {
+        SceneManager.LoadScene ("Scene2");
+    }
 }
